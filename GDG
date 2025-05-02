@@ -917,3 +917,709 @@
             <div class="question-container" id="q10">
               <div class="question">
                 10. زوجة الرئيس الراحل أنور السادات ونا
+              </div>
+              <div class="options">
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q10-option1"
+                    name="q10"
+                    value="تحية عبد الناصر"
+                  />
+                  <label for="q10-option1">تحية عبد الناصر</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q10-option2"
+                    name="q10"
+                    value="جيهان السادات"
+                  />
+                  <label for="q10-option2">جيهان السادات</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q10-option3"
+                    name="q10"
+                    value="رقية السادات"
+                  />
+                  <label for="q10-option3">رقية السادات</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q10-option4"
+                    name="q10"
+                    value="سوزان مبارك"
+                  />
+                  <label for="q10-option4">سوزان مبارك</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="question-container" id="q11">
+              <div class="question">
+                11. أول رائدة فضاء مصرية التحقت بوكالة ناسا؟
+              </div>
+              <div class="options">
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q11-option1"
+                    name="q11"
+                    value="سارة صبري"
+                  />
+                  <label for="q11-option1">سارة صبري</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q11-option2"
+                    name="q11"
+                    value="منى زكي"
+                  />
+                  <label for="q11-option2">منى زكي</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q11-option3"
+                    name="q11"
+                    value="فاطمة ناعوت"
+                  />
+                  <label for="q11-option3">فاطمة ناعوت</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q11-option4"
+                    name="q11"
+                    value="سميرة موسى"
+                  />
+                  <label for="q11-option4">سميرة موسى</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="question-container" id="q12">
+              <div class="question">
+                12. صحفية وكاتبة مصرية، كانت رمزًا للمرأة المثقفة في الصحافة؟
+              </div>
+              <div class="options">
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q12-option1"
+                    name="q12"
+                    value="فاطمة ناعوت"
+                  />
+                  <label for="q12-option1">فاطمة ناعوت</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q12-option2"
+                    name="q12"
+                    value="أمينة السعيد"
+                  />
+                  <label for="q12-option2">أمينة السعيد</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q12-option3"
+                    name="q12"
+                    value="صفاء حجازي"
+                  />
+                  <label for="q12-option3">صفاء حجازي</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q12-option4"
+                    name="q12"
+                    value="عائشة عبد الرحمن"
+                  />
+                  <label for="q12-option4">عائشة عبد الرحمن</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="question-container" id="q13">
+              <div class="question">
+                13. عالمة مصرية في مجال الأدب واللغة، ولقبت بـ'بنت الشاطئ'؟
+              </div>
+              <div class="options">
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q13-option1"
+                    name="q13"
+                    value="عائشة عبد الرحمن"
+                  />
+                  <label for="q13-option1">عائشة عبد الرحمن</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q13-option2"
+                    name="q13"
+                    value="ملك حفني ناصف"
+                  />
+                  <label for="q13-option2">ملك حفني ناصف</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q13-option3"
+                    name="q13"
+                    value="درية شفيق"
+                  />
+                  <label for="q13-option3">درية شفيق</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q13-option4"
+                    name="q13"
+                    value="إنجي أفلاطون"
+                  />
+                  <label for="q13-option4">إنجي أفلاطون</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="question-container" id="q14">
+              <div class="question">
+                14. أميرة ديزني انضمت للجيش بدلًا من والدها؟
+              </div>
+              <div class="options">
+                <div class="option">
+                  <input type="radio" id="q14-option1" name="q14" value="آنا" />
+                  <label for="q14-option1">آنا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q14-option2"
+                    name="q14"
+                    value="مولان"
+                  />
+                  <label for="q14-option2">مولان</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q14-option3"
+                    name="q14"
+                    value="إلسا"
+                  />
+                  <label for="q14-option3">إلسا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q14-option4"
+                    name="q14"
+                    value="ياسمين"
+                  />
+                  <label for="q14-option4">ياسمين</label>
+                </div>
+              </div>
+            </div>
+            <div class="question-container" id="q15">
+              <div class="question">
+                15. أميرة عاشت في قصر وصاحبة نمر اسمه 'راجا'؟
+              </div>
+              <div class="options">
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q15-option1"
+                    name="q15"
+                    value="أورورا"
+                  />
+                  <label for="q15-option1">أورورا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q15-option2"
+                    name="q15"
+                    value="ياسمين"
+                  />
+                  <label for="q15-option2">ياسمين</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q15-option3"
+                    name="q15"
+                    value="إلسا"
+                  />
+                  <label for="q15-option3">إلسا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q15-option4"
+                    name="q15"
+                    value="تيانا"
+                  />
+                  <label for="q15-option4">تيانا</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="question-container" id="q16">
+              <div class="question">
+                16. أميرة بحر تقع في حب إنسان وتترك عالمها لأجله؟
+              </div>
+              <div class="options">
+                <div class="option">
+                  <input type="radio" id="q16-option1" name="q16" value="ميغ" />
+                  <label for="q16-option1">ميغ</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q16-option2"
+                    name="q16"
+                    value="أرييل"
+                  />
+                  <label for="q16-option2">أرييل</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q16-option3"
+                    name="q16"
+                    value="سندريلا"
+                  />
+                  <label for="q16-option3">سندريلا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q16-option4"
+                    name="q16"
+                    value="مولان"
+                  />
+                  <label for="q16-option4">مولان</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="question-container" id="q17">
+              <div class="question">17. بطلة فيلم Brave وتُجيد الرماية؟</div>
+              <div class="options">
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q17-option1"
+                    name="q17"
+                    value="مولان"
+                  />
+                  <label for="q17-option1">مولان</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q17-option2"
+                    name="q17"
+                    value="ميريدا"
+                  />
+                  <label for="q17-option2">ميريدا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q17-option3"
+                    name="q17"
+                    value="أرييل"
+                  />
+                  <label for="q17-option3">أرييل</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q17-option4"
+                    name="q17"
+                    value="سندريلا"
+                  />
+                  <label for="q17-option4">سندريلا</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="question-container" id="q18">
+              <div class="question">18. أخت ملكة الجليد في فيلم Frozen؟</div>
+              <div class="options">
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q18-option1"
+                    name="q18"
+                    value="ميريدا"
+                  />
+                  <label for="q18-option1">ميريدا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q18-option2"
+                    name="q18"
+                    value="مولان"
+                  />
+                  <label for="q18-option2">مولان</label>
+                </div>
+                <div class="option">
+                  <input type="radio" id="q18-option3" name="q18" value="آنا" />
+                  <label for="q18-option3">آنا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q18-option4"
+                    name="q18"
+                    value="سندريلا"
+                  />
+                  <label for="q18-option4">سندريلا</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="question-container" id="q19">
+              <div class="question">19. أميرة تقع في نوم عميق بسبب تعويذة؟</div>
+              <div class="options">
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q19-option1"
+                    name="q19"
+                    value="سندريلا"
+                  />
+                  <label for="q19-option1">سندريلا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q19-option2"
+                    name="q19"
+                    value="أورورا"
+                  />
+                  <label for="q19-option2">أورورا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q19-option3"
+                    name="q19"
+                    value="إلسا"
+                  />
+                  <label for="q19-option3">إلسا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q19-option4"
+                    name="q19"
+                    value="تيانا"
+                  />
+                  <label for="q19-option4">تيانا</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="question-container" id="q20">
+              <div class="question">
+                20. فتاة شجاعة تتحدى الجليد لإنقاذ أختها؟
+              </div>
+              <div class="options">
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q20-option1"
+                    name="q20"
+                    value="ميريدا"
+                  />
+                  <label for="q20-option1">ميريدا</label>
+                </div>
+                <div class="option">
+                  <input type="radio" id="q20-option2" name="q20" value="آنا" />
+                  <label for="q20-option2">آنا</label>
+                </div>
+                <div class="option">
+                  <input
+                    type="radio"
+                    id="q20-option3"
+                    name="q20"
+                    value="ياسمين"
+                  />
+                  <label for="q20-option3">ياسمين</label>
+                </div>
+                <div class="option">
+                  <input type="radio" id="q20-option4" name="q20" value="ميغ" />
+                  <label for="q20-option4">ميغ</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="navigation-buttons">
+              <button type="button" class="nav-btn" id="prev-btn" disabled>
+                السابق
+              </button>
+              <button type="button" class="nav-btn" id="next-btn">
+                التالي
+              </button>
+            </div>
+          </form>
+        </div>
+
+        <div class="questions-nav">
+          <div class="nav-title">أسئلة الاختبار</div>
+          <div class="question-numbers" id="question-numbers"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="result-modal" id="result-modal">
+      <div class="result-content">
+        <h2 class="result-title">نتيجة الاختبار</h2>
+        <div class="circle-progress">
+          <svg viewBox="0 0 100 100">
+            <circle class="circle-bg" cx="50" cy="50" r="45"></circle>
+            <circle
+              class="circle-fill"
+              cx="50"
+              cy="50"
+              r="45"
+              style="stroke-dashoffset: 440"
+            ></circle>
+          </svg>
+          <div class="progress-text-result" id="progress-text-result">0%</div>
+        </div>
+        <div class="score-text" id="score-text">درجتك: 0 من 20</div>
+        <div class="result-actions">
+          <button class="action-btn review-btn" id="review-btn">
+            مراجعة الإجابات
+          </button>
+          <button class="action-btn close-btn" id="close-btn">إغلاق</button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const answers = [
+        "حكمت أبو زيد",
+        "حتشبسوت",
+        "صفية زغلول",
+        "آسيا داغر",
+        "تهاني الجبالي",
+        "جميلة إسماعيل",
+        "كليوباترا السابعة",
+        "صفاء حجازي",
+        "فاتن حمامة",
+        "جيهان السادات",
+        "سارة صبري",
+        "أمينة السعيد",
+        "عائشة عبد الرحمن",
+        "مولان",
+        "ياسمين",
+        "أرييل",
+        "ميريدا",
+        "آنا",
+        "أورورا",
+        "آنا",
+      ];
+
+      let currentQuestion = 1;
+      const totalQuestions = 20;
+      let isReviewMode = false;
+      let userAnswers = [];
+      const prevBtn = document.getElementById("prev-btn");
+      const nextBtn = document.getElementById("next-btn");
+      const progressText = document.getElementById("progress-text");
+      const progressBar = document.getElementById("progress-bar");
+      const questionNumbersContainer =
+        document.getElementById("question-numbers");
+      const resultModal = document.getElementById("result-modal");
+      const progressTextResult = document.getElementById(
+        "progress-text-result"
+      );
+      const scoreText = document.getElementById("score-text");
+      const reviewBtn = document.getElementById("review-btn");
+      const closeBtn = document.getElementById("close-btn");
+      const circleFill = document.querySelector(".circle-fill");
+
+      function initializeQuestionNumbers() {
+        questionNumbersContainer.innerHTML = "";
+        for (let i = 1; i <= totalQuestions; i++) {
+          const questionNumber = document.createElement("div");
+          questionNumber.className = "question-number";
+          questionNumber.textContent = i;
+          questionNumber.dataset.question = i;
+          questionNumber.addEventListener("click", () => navigateToQuestion(i));
+          questionNumbersContainer.appendChild(questionNumber);
+        }
+      }
+
+      function updateQuestionNumber(questionNum) {
+        document.querySelectorAll(".question-number").forEach((el) => {
+          el.classList.remove("current");
+        });
+
+        const currentNumber = document.querySelector(
+          `.question-number[data-question="${questionNum}"]`
+        );
+        if (currentNumber) {
+          currentNumber.classList.add("current");
+        }
+      }
+
+      function updateProgressBar() {
+        const progress = (currentQuestion / totalQuestions) * 100;
+        progressBar.style.width = `${progress}%`;
+      }
+
+      function navigateToQuestion(questionNum) {
+        if (questionNum < 1 || questionNum > totalQuestions) return;
+
+        document
+          .getElementById(`q${currentQuestion}`)
+          .classList.remove("active");
+        currentQuestion = questionNum;
+        document.getElementById(`q${currentQuestion}`).classList.add("active");
+
+        progressText.textContent = `السؤال ${currentQuestion} من ${totalQuestions}`;
+        updateProgressBar();
+
+        prevBtn.disabled = currentQuestion === 1;
+
+        if (isReviewMode) {
+          nextBtn.textContent =
+            currentQuestion === totalQuestions ? "النتائج" : "التالي";
+          nextBtn.classList.remove("finish-btn");
+        } else {
+          if (currentQuestion === totalQuestions) {
+            nextBtn.textContent = "إنهاء";
+            nextBtn.classList.add("finish-btn");
+          } else {
+            nextBtn.textContent = "التالي";
+            nextBtn.classList.remove("finish-btn");
+          }
+        }
+
+        updateQuestionNumber(currentQuestion);
+      }
+
+      function showResultsModal(score) {
+        const percentage = Math.round((score / totalQuestions) * 100);
+        progressTextResult.textContent = `${percentage}%`;
+        scoreText.textContent = `درجتك: ${score} من ${totalQuestions}`;
+
+        const circumference = 440;
+        const offset = circumference - (percentage / 100) * circumference;
+        circleFill.style.strokeDashoffset = offset;
+
+        resultModal.style.display = "flex";
+      }
+
+      function calculateScore() {
+        let score = 0;
+        userAnswers = [];
+
+        for (let i = 1; i <= totalQuestions; i++) {
+          const selectedOption = document.querySelector(
+            `input[name="q${i}"]:checked`
+          );
+          if (selectedOption) {
+            userAnswers.push({
+              question: i,
+              answer: selectedOption.value,
+              isCorrect: selectedOption.value === answers[i - 1],
+            });
+
+            if (selectedOption.value === answers[i - 1]) {
+              score++;
+            }
+          }
+        }
+
+        showResultsModal(score);
+      }
+
+      function startReviewMode() {
+        isReviewMode = true;
+        resultModal.style.display = "none";
+
+        document.querySelectorAll(".option").forEach((option) => {
+          option.classList.remove("correct", "incorrect", "correct-answer");
+        });
+
+        userAnswers.forEach((item) => {
+          const options = document.querySelectorAll(
+            `input[name="q${item.question}"]`
+          );
+          options.forEach((option) => {
+            const optionElement = option.closest(".option");
+            if (option.value === item.answer) {
+              optionElement.classList.add(
+                item.isCorrect ? "correct" : "incorrect"
+              );
+            }
+            if (
+              option.value === answers[item.question - 1] &&
+              !item.isCorrect
+            ) {
+              optionElement.classList.add("correct-answer");
+            }
+          });
+        });
+
+        navigateToQuestion(1);
+      }
+
+      function setupEventListeners() {
+        document.querySelectorAll('input[type="radio"]').forEach((radio) => {
+          radio.addEventListener("change", function () {
+            const questionNum = parseInt(this.name.substring(1));
+            const questionNumberElement = document.querySelector(
+              `.question-number[data-question="${questionNum}"]`
+            );
+            questionNumberElement.classList.add("answered");
+          });
+        });
+
+        prevBtn.addEventListener("click", () =>
+          navigateToQuestion(currentQuestion - 1)
+        );
+        nextBtn.addEventListener("click", () => {
+          if (isReviewMode && currentQuestion === totalQuestions) {
+            calculateScore();
+          } else if (!isReviewMode && currentQuestion === totalQuestions) {
+            calculateScore();
+          } else {
+            navigateToQuestion(currentQuestion + 1);
+          }
+        });
+
+        closeBtn.addEventListener("click", () => {
+          resultModal.style.display = "none";
+        });
+
+        reviewBtn.addEventListener("click", startReviewMode);
+      }
+
+      function initQuiz() {
+        initializeQuestionNumbers();
+        updateQuestionNumber(currentQuestion);
+        updateProgressBar();
+        setupEventListeners();
+      }
+
+      initQuiz();
+    </script>
+  </body>
+</html>
